@@ -27,7 +27,7 @@ I'm a Software Engineer | Graphics Programmer at **D-Cube**, working on industri
 <img align="left" alt="OpenGL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
 <img align="left" alt="Vulkan" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg">
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
+<img align="left" alt="Unreal Engine" width="26px" src="https://github.com/Trippasch/Trippasch/blob/main/icons/Unreal%20Engine%20Icon.svg">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

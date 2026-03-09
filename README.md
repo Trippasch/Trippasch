@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Paschalis's GitHub stats](https://github-readme-stats-trippasch.vercel.app/api?username=Trippasch)](https://github.com/anuraghazra/github-readme-stats)
+[![Paschalis's GitHub stats](https://github-readme-stats-eight-rho-78.vercel.app/api?username=Trippasch)](https://github.com/anuraghazra/github-readme-stats)

@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="left" alt="OpenGL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
+<img align="left" alt="Vulkan" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg">
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">

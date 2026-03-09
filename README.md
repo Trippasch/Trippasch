@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer at **D-Cube**, working on industrial XR development. I'm really into computer graphics and game development in general.
+
 ---
 
-
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">

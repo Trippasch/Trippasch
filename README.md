@@ -73,7 +73,7 @@ A custom RayMarcher in Unity's new Post Processing v3 stack.
 FractalX is a basic fractal simulator game, with many custom features that lets the player explore, interact and customize the fractal on the screen.
 
 #### 📖 [GLX](https://github.com/Trippasch/GLX)
-GLX is an early-stage cross-platform OpenGL graphics engine for learning purposes, inspired by the lessons from the online book [LearnOpenGL](https://learnopengl.com/).
+GLX is an early-stage cross-platform OpenGL graphics engine for learning purposes, inspired by the lessons from the online book LearnOpenGL.
 
 #### 📖 [VulkanGLX](https://github.com/Trippasch/VulkanGLX)
 VulkanGLX is an early-stage cross-platform Vulkan graphics engine for learning purposes.

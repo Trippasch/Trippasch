@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer at **D-Cube**, working on industrial XR development. I'm really into computer graphics and game development in general.
+I'm a Software Engineer | Graphics Programmer at **D-Cube**, working on industrial XR development.
 
 ---
 
@@ -42,6 +42,26 @@ I'm a Software Engineer at **D-Cube**, working on industrial XR development. I'm
 
 <br />
 <br />
+
+---
+
+### 🔭 What I'm Working On
+- 🛠️ Designing and developing industrial mixed reality applications.
+- 🖥️ Computer graphics passionate projects. From low-level graphics engines to highly customized experimental Unity applications.
+
+---
+
+### 🎯Interests
+- 👓 **Mixed Reality**
+- 🖥️ **Computer Graphics**
+- 🕹️ **Game Development**
+- 🎮 **Gaming**
+
+---
+
+### 📫 How to Reach Me
+- 📧 [paschalis.choropanitis@outlook.com](mailto:paschalis.choropanitis@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paschalis-choropanitis/)
 
 ---
 

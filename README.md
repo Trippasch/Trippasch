@@ -79,12 +79,7 @@ GLX is an early-stage cross-platform OpenGL graphics engine for learning purpose
 VulkanGLX is an early-stage cross-platform Vulkan graphics engine for learning purposes.
 
 #### 🖼️ [CUDA Ray Tracer](https://github.com/Trippasch/CudaRayTracer)
-A GPU-accelerated ray tracing renderer written in C++ and CUDA. This was my thesis project, focused on building a custom ray tracer from scratch with support for:
-- Soft shadows, reflections, and Phong shading
-- Real-time camera manipulation and object interaction
-- Parallel rendering via CUDA for faster performance
-
-Built with: **C++**, **CUDA**, and a bit of **OpenGL** for visualization
+A GPU-accelerated ray tracing renderer written in C++ and CUDA. This was my thesis project, focused on building a custom ray tracer from scratch.
 
 ---
 

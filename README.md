@@ -65,6 +65,29 @@ I'm a Software Engineer | Graphics Programmer at [**D-Cube**](https://www.d-cube
 
 ---
 
+### 📌 Projects
+#### 👾 [Unity-RayMarcher](https://github.com/Trippasch/Unity-RayMarcher)
+A custom RayMarcher in Unity's new Post Processing v3 stack.
+
+#### 👾 [FractalX](https://github.com/Trippasch/FractalX)
+FractalX is a basic fractal simulator game, with many custom features that lets the player explore, interact and customize the fractal on the screen.
+
+#### 📖 [GLX](https://github.com/Trippasch/GLX)
+GLX is an early-stage cross-platform OpenGL graphics engine for learning purposes, inspired by the lessons from the online book [LearnOpenGL](https://learnopengl.com/).
+
+#### 📖 [VulkanGLX](https://github.com/Trippasch/VulkanGLX)
+VulkanGLX is an early-stage cross-platform Vulkan graphics engine for learning purposes.
+
+#### 🖼️ [CUDA Ray Tracer](https://github.com/Trippasch/CudaRayTracer)
+A GPU-accelerated ray tracing renderer written in C++ and CUDA. This was my thesis project, focused on building a custom ray tracer from scratch with support for:
+- Soft shadows, reflections, and Phong shading
+- Real-time camera manipulation and object interaction
+- Parallel rendering via CUDA for faster performance
+
+Built with: **C++**, **CUDA**, and a bit of **OpenGL** for visualization
+
+---
+
 ### 📫 How to Reach Me
 - 📧 [paschalis.choropanitis@outlook.com](mailto:paschalis.choropanitis@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paschalis-choropanitis/)

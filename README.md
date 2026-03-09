@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer | Graphics Programmer at **D-Cube**, working on industrial XR development.
+I'm a Software Engineer | Graphics Programmer at [**D-Cube**](https://www.d-cube.eu/), working on industrial XR development.
 
 ---
 

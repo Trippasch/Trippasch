@@ -67,7 +67,7 @@ I'm a Software Engineer | Graphics Programmer at [**D-Cube**](https://www.d-cube
 
 ### 📌 Projects
 #### 👾 [Unity-RayMarcher](https://github.com/Trippasch/Unity-RayMarcher)
-A custom RayMarcher in Unity's new Post Processing v3 stack.
+A custom RayMarcher 3D fractal explorer in Unity's new Post Processing v3 stack.
 
 #### 👾 [FractalX](https://github.com/Trippasch/FractalX)
 FractalX is a basic fractal simulator game, with many custom features that lets the player explore, interact and customize the fractal on the screen.
